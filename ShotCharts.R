@@ -1,3 +1,4 @@
+#Shot Charts Data
 library(dplyr)
 
 read.csv("~/RProjects/NBADataScience/playoff_shots.csv") -> shotsData
